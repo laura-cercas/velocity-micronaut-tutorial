@@ -1,0 +1,35 @@
+div{
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+.fila:hover {
+    background-color: rgb(250, 234, 157);
+    border-radius: 1.5rem;
+}
+
+
+
+.tabla{
+    width: 50%;
+    margin:auto;
+    background-color: rgba(201, 212, 255, 0.86);
+    border-radius: 1.5rem;
+}
+html {
+    min-height: 100%;
+    position: relative;
+}
+body {;
+    padding-bottom: 5%;
+
+}
